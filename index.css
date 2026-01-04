@@ -1,0 +1,24 @@
+body {
+  background-color: white; 
+  font-size:1rem;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+}
+.header_part {
+    text-align:left;
+    font-weight:300;
+}
+.header_right {
+    text-align:right;
+    color:deepskyblue;
+}
+.row {
+    margin-top: 5%;
+    display:inline;
+    margin-top:16px;
+    margin-left:100px;
+    float:left;
+    align-items:center;
+    padding:30px;
+    gap:10px;
+}
